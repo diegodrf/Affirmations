@@ -1,4 +1,3 @@
-![enter image description here](https://github.com/diegodrf/Affirmations/blob/main/Printscreens/Screenshot_1625196677.png)
 # Affirmations
 
 This project is part of training course from [Android for Developers](https://developer.android.com/courses/android-basics-kotlin/course).
