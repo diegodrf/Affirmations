@@ -6,7 +6,10 @@ This project is part of training course from [Android for Developers](https://de
 
 The focus is to construct an app using RecyclerView, Cards and Icons.
 
+### Printscreens
 ![App](https://github.com/diegodrf/Affirmations/blob/main/Printscreens/Screenshot_1625196532.png)
 ![Scrolling](https://github.com/diegodrf/Affirmations/blob/main/Printscreens/Screenshot_1625196550.png)
 ![Dark mode](https://github.com/diegodrf/Affirmations/blob/main/Printscreens/Screenshot_1625196677.png)
+
+### Icon
 ![Icon](https://github.com/diegodrf/Affirmations/blob/main/Printscreens/Icon.PNG)
